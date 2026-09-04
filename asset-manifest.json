@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpu-scheduling-calculator/static/css/main.d85a5aa7.css",
+    "main.js": "/cpu-scheduling-calculator/static/js/main.f441244e.js",
+    "static/js/453.69fafdc4.chunk.js": "/cpu-scheduling-calculator/static/js/453.69fafdc4.chunk.js",
+    "index.html": "/cpu-scheduling-calculator/index.html",
+    "main.d85a5aa7.css.map": "/cpu-scheduling-calculator/static/css/main.d85a5aa7.css.map",
+    "main.f441244e.js.map": "/cpu-scheduling-calculator/static/js/main.f441244e.js.map",
+    "453.69fafdc4.chunk.js.map": "/cpu-scheduling-calculator/static/js/453.69fafdc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85a5aa7.css",
+    "static/js/main.f441244e.js"
+  ]
+}
